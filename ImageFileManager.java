@@ -64,6 +64,10 @@ public class ImageFileManager {
             } catch (Exception ex) {
                 JOptionPane.showMessageDialog(parent, "Erro ao salvar imagem!", "Erro", JOptionPane.ERROR_MESSAGE);
             }
-        }
+        } 
+            
+    
+    
+    
     }
 }
